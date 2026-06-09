@@ -59,7 +59,7 @@ Seeking opportunities in Data Analytics, Business Intelligence, or Data-Driven P
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&hide_border=true&theme=default&hide_title=true" height="130"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Garza555&show_icons=true&hide_border=true&theme=default&hide_title=true" height="130"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&hide_border=true&theme=default" height="130"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garza555&layout=compact&hide_border=true&theme=default" height="130"/>
 </p>
