@@ -25,7 +25,7 @@ Seeking opportunities in Data Analytics, Business Intelligence, or Data-Driven P
 ### Tech stack
 
 **Data & BI**
-`Python` `SQL` `Power BI` `Tableau` `Pandas` `Excel`
+`Python` `SQL` `Power BI` `Tableau` `Pandas` `Excel` `DevOps`
 
 **Web & Backend**
 `React` `JavaScript` `Node.js` `Supabase` `MySQL`
